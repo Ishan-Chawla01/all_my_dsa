@@ -1,4 +1,6 @@
+
 ```java
+
 //It is in java
 public static int divisibleSumPairs(int n, int k, List<Integer> ar) {
     // Write your code here
@@ -13,4 +15,5 @@ public static int divisibleSumPairs(int n, int k, List<Integer> ar) {
     }
     return count;
     }
+
 ```
